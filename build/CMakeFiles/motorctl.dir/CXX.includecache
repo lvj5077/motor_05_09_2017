@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jin/Desktop/motor/src/motor.h
+stdio.h
+-
+string.h
+-
+iostream
+-
+deque
+-
+cstdlib
+-
+sstream
+-
+iomanip
+-
+string
+-
+stdexcept
+-
+SerialStream.h
+-
+boost/lexical_cast.hpp
+-
+
+/home/jin/Desktop/motor/src/test_motor.cpp
+motor.h
+/home/jin/Desktop/motor/src/motor.h
+iostream
+-
+unistd.h
+-
+cmath
+-
+

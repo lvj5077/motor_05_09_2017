@@ -1,0 +1,2 @@
+/home/jin/Desktop/motor/build/CMakeFiles/motorctl.dir
+/home/jin/Desktop/motor/build/CMakeFiles/myMotor.dir

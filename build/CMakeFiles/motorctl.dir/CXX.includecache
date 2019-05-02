@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/jin/Desktop/motor/src/motor.h
+/home/jin/Lingqiu_Jin/motor_05_09_2017/src/motor.h
 stdio.h
 -
 string.h
@@ -30,9 +30,9 @@ SerialStream.h
 boost/lexical_cast.hpp
 -
 
-/home/jin/Desktop/motor/src/test_motor.cpp
+/home/jin/Lingqiu_Jin/motor_05_09_2017/src/test_motor.cpp
 motor.h
-/home/jin/Desktop/motor/src/motor.h
+/home/jin/Lingqiu_Jin/motor_05_09_2017/src/motor.h
 iostream
 -
 unistd.h

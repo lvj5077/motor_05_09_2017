@@ -1,1 +1,1 @@
-g++   -O3 -std=c++11 -O3 -DNDEBUG    CMakeFiles/motorctl.dir/src/test_motor.cpp.o  -o motorctl -rdynamic libmyMotor.so -lboost_unit_test_framework -lserial -Wl,-rpath,/home/jin/Desktop/motor/build 
+g++   -O3 -std=c++11 -O3 -DNDEBUG   CMakeFiles/motorctl.dir/src/test_motor.cpp.o  -o motorctl -rdynamic libmyMotor.so -lboost_unit_test_framework -lserial -lpthread -Wl,-rpath,/home/jin/Lingqiu_Jin/motor_05_09_2017/build 

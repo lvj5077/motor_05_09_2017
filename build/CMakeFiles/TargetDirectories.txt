@@ -1,2 +1,4 @@
-/home/jin/Desktop/motor/build/CMakeFiles/motorctl.dir
-/home/jin/Desktop/motor/build/CMakeFiles/myMotor.dir
+/home/jin/Lingqiu_Jin/motor_05_09_2017/build/CMakeFiles/edit_cache.dir
+/home/jin/Lingqiu_Jin/motor_05_09_2017/build/CMakeFiles/rebuild_cache.dir
+/home/jin/Lingqiu_Jin/motor_05_09_2017/build/CMakeFiles/myMotor.dir
+/home/jin/Lingqiu_Jin/motor_05_09_2017/build/CMakeFiles/motorctl.dir

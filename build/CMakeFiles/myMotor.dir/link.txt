@@ -1,1 +1,1 @@
-g++  -fPIC -O3 -std=c++11 -O3 -DNDEBUG   -shared -Wl,-soname,libmyMotor.so -o libmyMotor.so CMakeFiles/myMotor.dir/src/motor.cpp.o -lboost_unit_test_framework -lserial 
+g++  -fPIC -O3 -std=c++11 -O3 -DNDEBUG  -shared -Wl,-soname,libmyMotor.so -o libmyMotor.so CMakeFiles/myMotor.dir/src/motor.cpp.o -lboost_unit_test_framework -lserial -lpthread 
